@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Frameworks: C# (.NET 8.0, .NET 5,.NET Core 3.1 e 2.2), Java, Python (Django)
+  🦄 Linguagens e Frameworks: C# (.NET 8.0, .NET 5,.NET Core 3.1 e 2.2), Blazor, Java, Python (Django)
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🎨 Frontend: JavaScript, jQuery, Bootstrap 4.5
+  🎨 Frontend: JavaScript, jQuery, Bootstrap, Css, Html
 </p>
 
 <p align="left">
