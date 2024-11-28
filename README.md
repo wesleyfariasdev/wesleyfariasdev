@@ -23,11 +23,6 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo:
-</p>
-
-
-<p align="left">
   <a href="#" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleymfarias/" alt="LinkedIn"/>
   </a>
